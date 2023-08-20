@@ -1,4 +1,4 @@
-# Week 8-1 Journal Assignemnt 
+# Week 8-1 Journal Assigmemnt 
 SNHU Computer Science BS
 Prompt
 For this course, you will select one project to submit into the GitHub repository for your portfolio. You should submit all relevant files from your selected project to your GitHub repository. These will showcase your work with programming languages and most specifically C++. These files also demonstrate your ability to write well-documented and readable code, design functional programs that meet industry standards, and use multiple programming languages to develop secure and efficient code.
